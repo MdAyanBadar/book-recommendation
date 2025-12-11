@@ -84,7 +84,7 @@ streamlit run app.py
 
 ---
 
-🌐 Deploying on Streamlit Cloud
+## 🌐 Deploying on Streamlit Cloud
 
 Push your project to GitHub (public repo recommended).
 
@@ -117,7 +117,7 @@ If you get a 403 or 404 on the share link, re-deploy (there’s a redeploy optio
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🎯 Add collaborative filtering
 
@@ -135,7 +135,7 @@ Contributions are welcome! Fork the repo and open a PR.
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Ayan Badar
 Machine Learning • Streamlit Projects • Full-Stack Development
