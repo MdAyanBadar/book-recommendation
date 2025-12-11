@@ -82,6 +82,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+---
+
 🌐 Deploying on Streamlit Cloud
 
 Push your project to GitHub (public repo recommended).
@@ -113,6 +115,8 @@ Missing secrets or environment variables: add them under the app settings on Str
 
 If you get a 403 or 404 on the share link, re-deploy (there’s a redeploy option) after confirming GitHub HEAD is the branch Streamlit is pointed to.
 
+---
+
 📌 Future Enhancements
 
 🎯 Add collaborative filtering
@@ -128,6 +132,8 @@ If you get a 403 or 404 on the share link, re-deploy (there’s a redeploy optio
 🤝 Contributing
 
 Contributions are welcome! Fork the repo and open a PR.
+
+---
 
 🧑‍💻 Author
 
