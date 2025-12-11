@@ -44,7 +44,7 @@ Try the live app here:
 
 ## 📂 Project Structure
 
-
+```
 │
 ├── data/
 │   ├── books.csv
@@ -57,7 +57,7 @@ Try the live app here:
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
